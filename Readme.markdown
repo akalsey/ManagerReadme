@@ -26,11 +26,11 @@ In fact, I prefer to coach instead of manage. I don't want to tell you how to do
 
 The newer a task or project is to you (like those stretch assignments), the more handholding I'll give you. This might include actually giving you step-by-step instructions on how to do something.  Feel free to try it my way or reject those. You are here because you're smart and capable, and gave you the task so you could do it. You're not a minion here to carry out my instructions.
 
-We'll set goals together through a framework called OKRs. These stand for Objectives and Key Results, and are a set of team objectives and a description of how to measure them, changing quarterly. I don't dictate the OKRs, we work on setting them as a team. I present the goals and strategy that we're being asked to drive toward, and then we'll all figure out together how to get there. You'll have a set of personal OKRs that push the team OKRs forward. So does everyone else. And everyone's OKRs are visible to everyone else, so we all know what we're working on and why we're doing it.
+We'll set goals together through a framework called OKRs. These stand for Objectives and Key Results, and are a set of team objectives and a description of how to measure them, changing quarterly. I don't dictate the OKRs, we work on setting them as a team. I present the goals and strategy that we're being asked to drive toward, and then we'll all figure out together how to get there. Every team's OKRs are visible to everyone else, so we all know what we're working on and why we're doing it. I don't do individual level OKRs for team work, at least not unless the team is super advanced with OKRs. If you read any books and articles about implementing OKRs you might see people extending OKRs to individual people, but I've found that rarely works in practice.
 
 In addition to the OKRs that you'll use to drive the team ahead, you'll have a an objective each quarter to drive yourself ahead. Everyone has a personal growth objective each quarter that's designed to make them more valuable to the team. Examples that we've seen in the past are "Learn Javascript", "Become a fantastic public speaker", and "Get my PMP certification."
 
-You'll update and grade your OKRs on a weekly basis.
+You'll update and grade your team's OKRs on a weekly basis.
 
 ## Communications Style
 
