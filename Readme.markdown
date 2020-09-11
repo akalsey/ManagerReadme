@@ -4,9 +4,9 @@ This is a document about working with me. One of the hardest parts about joining
 
 I look forward to getting to know you. This document isn't designed to replace that process, but instead to give you a jumping off point, so you know and understand the basics and the often-hidden qualities that often take awhile to become obvious.
 
-## Principals
+## Principles
 
-These are the core principals in my life and work life.
+These are the core principles in my life and work life.
 
 - **You and your family come before the company**. There's nothing so important going on at work that it should take precedence over yourself and your family. Whether it's time off or a shift in workload to deal with a family emergency or just a need to take an hour every afternoon to pick up your kids from school, I want you to take it.
 - **A bias for action**. If presented with the choice between acting and analyzing, I'm going to act. I value experimentation over analysis and I'd rather reach a conclusion through doing something, gathering the results, and iterating, than thinking through all the possible ways of doing something and guessing which is best.
