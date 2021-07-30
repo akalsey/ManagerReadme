@@ -4,6 +4,8 @@ This is a document about working with me. One of the hardest parts about joining
 
 I look forward to getting to know you. This document isn't designed to replace that process, but instead to give you a jumping off point, so you know and understand the basics and the often-hidden qualities that often take awhile to become obvious.
 
+This is a document in git on purpose. Have something about me you want future folks to know? Send a pull request. I'll probably accept it.
+
 ## Principles
 
 These are the core principles in my life and work life.
