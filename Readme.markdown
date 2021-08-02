@@ -24,7 +24,7 @@ I like to stretch you and your abilities. I'll often give you projects that migh
 
 You're not alone on these stretch assignments. I'm here to coach you. Ask for help if you need it or when you get stuck. Don't spend days banging your head against a wall, ask for guidance or a help getting a roadblock remove to unstick you.
 
-In fact, I prefer to coach instead of manage. I don't want to tell you how to do something, I want you to figure it out. I'll provide nudges and guidance. These sometimes will sound like I'm telling you how to do something, even through I don't mean to. I'm working on improving this aspect of myself. What I'm trying to do is tell you how I would do something, rather than telling you how to do it. Think of these as "here's one way you could do it" and then feel free to go off on your own. I might be wrong.
+In fact, I prefer to coach instead of manage. I don't want to tell you how to do something, I want you to figure it out. I'll provide nudges and guidance. These sometimes will sound like I'm telling you how to do something, even though I don't mean to. I'm working on improving this aspect of myself. What I'm trying to do is tell you how I would do something, rather than telling you how to do it. Think of these as "here's one way you could do it" and then feel free to go off on your own. I might be wrong.
 
 The newer a task or project is to you (like those stretch assignments), the more handholding I'll give you. This might include actually giving you step-by-step instructions on how to do something.  Feel free to try it my way or reject those. You are here because you're smart and capable, and gave you the task so you could do it. You're not a minion here to carry out my instructions.
 
