@@ -36,7 +36,7 @@ You'll update and grade your team's OKRs on a weekly basis.
 
 ## Communications Style
 
-We'll have a weekly one on one meeting (1:1). This isn't the only time you can talk to me! Bring things up as you need to, and the 1:1 is there to make sure we're talking at least once  a week. We'll schedule these for one hour, every week. I like to do them all in the same day, and all at about the same time. Currently this works out to Wednesday mornings.
+We'll have a weekly one on one meeting (1:1). This isn't the only time you can talk to me! Bring things up as you need to, and the 1:1 is there to make sure we're talking at least once  a week. We'll schedule these for one hour, every week. I like to do them all in the same day, and all at about the same time. 
 
 I treat this time as sacred, and won't ever move or cancel them unless it's unavoidable, often because I'm on an airplane, on vacation, or because someone higher up in the company has scheduled something critical that overlaps. If you don't feel you need the meeting or have something else that's going on, you can cancel them. But do this too often, and I'm going to start asking why.
 
