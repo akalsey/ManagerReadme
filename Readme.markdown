@@ -42,7 +42,7 @@ I treat this time as sacred, and won't ever move or cancel them unless it's unav
 
 This is your meeting, with your agenda. It's there for whatever you need. I'd rather discuss topics of substance on these, not status updates, unless you really just need to tell me the status on all your projects that week. The day before our 1:1, I'd like you to send an agenda to help organize us both.
 
-I prefer text instead of voice for unscheduled conversations. If you want to talk over voice, that's cool, but I'd love it if you send a message first to see if I'm free. Especially if I’m out of the office. When I’m not at the office, I like to work from odd places (coffee shops, backyard, parks), so I might need time to change locations for a call. If you do call and I don't answer, don't leave a voicemail, send a Slack message or text message.
+I prefer text instead of voice for unscheduled conversations. If you want to talk over voice, that's cool, but I'd love it if you send a message first to see if I'm free. I like to work from odd places (coffee shops, backyard, parks), so I might need time to change locations for a call. If you do call and I don't answer, don't leave a voicemail, send a Slack message or text message.
 
 I might message you on weekends or after hours. I'm not actually asking you to work or think about the message on evenings and weekends. I just want to capture the thought while I have it. Feel free to ignore it until working hours. Don't feel the pressure to respond right away, since that's not what I'm expecting with these messages. If there's an emergency and it’s critical you do NOW, I’ll let you know. This will almost never happen.
 
